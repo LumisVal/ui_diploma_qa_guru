@@ -15,26 +15,31 @@ The project demonstrates a complete UI test automation framework built using mod
 
 This project automates key business scenarios of the Demo Web Shop application:
 
-User registration
-Authentication
-Product search
-Shopping cart management
-Product catalog navigation
-End-to-end checkout flow
+- User registration
+- Authentication
+- Product search
+- Shopping cart management
+- Product catalog navigation
+- End-to-end checkout flow
 
 The framework follows the Page Object Pattern, provides detailed Allure Reports, and uses dynamically generated test data.
 
-🛠 Tech Stack
-Technology	Purpose
-Python 3.12	Programming language
-Pytest	Test runner
-Selene	UI testing framework
-Selenium WebDriver	Browser automation
-Allure Report	Reporting
-Faker	Test data generation
-GitHub	Version control
-Jenkins	CI/CD
-🏗 Project Architecture
+## 🛠 Tech Stack
+
+| Technology | Purpose |
+|------------|----------|
+| Python 3.12 | Programming language |
+| Pytest | Test runner |
+| Selene | UI testing framework |
+| Selenium WebDriver | Browser automation |
+| Allure Report | Reporting |
+| Faker | Test data generation |
+| GitHub | Version control |
+| Jenkins | CI/CD |
+
+## 🏗 Project Architecture
+
+```text
 ui-diploma-qa_guru
 
 ├── tests
@@ -44,7 +49,7 @@ ui-diploma-qa_guru
 │   ├── test_cart.py
 │   ├── test_category.py
 │   └── test_checkout.py
-│
+
 ├── pages
 │   ├── base_page.py
 │   ├── login_page.py
@@ -52,17 +57,18 @@ ui-diploma-qa_guru
 │   ├── cart_page.py
 │   ├── category_page.py
 │   └── checkout_page.py
-│
+
 ├── data
 │   └── users.py
-│
+
 ├── config
-│
 ├── utils
-│
+
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
+
+
 🎯 Implemented Test Scenarios
 Authentication
 
