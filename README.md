@@ -115,6 +115,7 @@ Fluent API style
 Reusable page components
 Independent test execution
 End-to-End checkout scenario
+
 📊 Test Results
 
 Current project status:
