@@ -169,7 +169,7 @@ Grouping of automated tests by suites and business functionality.
 
 ### 🛒 Checkout E2E Scenario
 
-![Checkout Scenario](screenshots/Allure%20test%20Checkout.png)
+![Checkout Scenario](screenshots/Allure%20тест%20Checkout.png)
 
 Detailed execution of the end-to-end checkout scenario with steps and assertions.
 
