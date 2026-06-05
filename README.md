@@ -68,10 +68,7 @@ ui-diploma-qa_guru
 ├── pytest.ini
 └── README.md
 ```
-<<<<<<< HEAD
 
-=======
->>>>>>> origin/master
 
 🎯 Implemented Test Scenarios
 Authentication
