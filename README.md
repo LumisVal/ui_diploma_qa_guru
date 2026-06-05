@@ -67,6 +67,7 @@ ui-diploma-qa_guru
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
+```
 
 
 🎯 Implemented Test Scenarios
@@ -140,15 +141,54 @@ pytest tests --alluredir=allure-results
 Open report:
 
 allure serve allure-results
-📸 Reporting Examples
+## 📸 Reporting Examples
+
+### 🏗 Project Structure
+
+![Project Structure](screenshots/Структура.png)
+
+The project follows the Page Object Model (POM) pattern and contains separate layers for tests, pages, configuration and utilities.
+
+---
+
+### 📊 Allure Report Overview
+
+![Allure Overview](screenshots/Allure%20Overview.png)
+
+General information about test execution, statistics, duration and test status distribution.
+
+---
+
+### 📂 Allure Suites
+
+![Allure Suites](screenshots/Allure%20Suites.png)
+
+Grouping of automated tests by suites and business functionality.
+
+---
+
+### 🛒 Checkout E2E Scenario
+
+![Checkout Scenario](screenshots/Allure%20test%20Checkout.png)
+
+Detailed execution of the end-to-end checkout scenario with steps and assertions.
+
+---
+
+### ⚙️ Jenkins Build
+
+*Add Jenkins build screenshot here if available.*
 Allure Overview
 Allure Suites
 Checkout E2E Scenario
 Jenkins Build
-👨‍💻 Author
 
-Leonid Chaliy
+## 👨‍💻 Author
 
-QA Automation Engineer
+> **Leonid Chaliy**  
+> QA Automation Engineer  
+>
+> 🐙 GitHub: https://github.com/LumisVal  
+> 📱 Mobile Automation • 🌐 UI Automation • 🔌 API Testing
 
-QA.GURU Diploma Project
+📌 Diploma Project
