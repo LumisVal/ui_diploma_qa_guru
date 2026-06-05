@@ -191,8 +191,4 @@ Jenkins Build
 > 🐙 GitHub: https://github.com/LumisVal  
 > 📱 Mobile Automation • 🌐 UI Automation • 🔌 API Testing
 
-<<<<<<< HEAD
-📌 Diploma Project
-=======
-QA.GURU Diploma Project
->>>>>>> origin/master
+
