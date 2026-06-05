@@ -67,7 +67,7 @@ ui-diploma-qa_guru
 ├── requirements.txt
 ├── pytest.ini
 └── README.md
-
+```
 
 🎯 Implemented Test Scenarios
 Authentication
