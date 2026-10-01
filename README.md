@@ -175,13 +175,9 @@ Detailed execution of the end-to-end checkout scenario with steps and assertions
 
 ---
 
-### ⚙️ Jenkins Build
+### ⚙️ Jenkins
 
-*Add Jenkins build screenshot here if available.*
-Allure Overview
-Allure Suites
-Checkout E2E Scenario
-Jenkins Build
+The project supports remote execution in Selenoid (`REMOTE=true`). An example of a configured Jenkins job (build, Allure report, Telegram notification) is in [QA_GURU_HOMEWORK_LESSON15](https://github.com/LumisVal/QA_GURU_HOMEWORK_LESSON15).
 
 ## 👨‍💻 Author
 
